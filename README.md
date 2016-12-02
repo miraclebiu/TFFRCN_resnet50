@@ -10,8 +10,8 @@ This is the faster rcnn based on Tensorflow and resnet50
 
 You can find how to use it from the above website
 
-the model file is convert from the caffemodel, you can download from the baiduyun
-link: http://pan.baidu.com/s/1eSuUO1s pwd: 24cf .
+the model file is convert from the caffemodel, you can download from the baiduyun  
+link: http://pan.baidu.com/s/1eSuUO1s pwd: 24cf  
 the fine-tune model link: http://pan.baidu.com/s/1nuUYfMh pwd：5bve
 
 Mean AP = 0.7124
