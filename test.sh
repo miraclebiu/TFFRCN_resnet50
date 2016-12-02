@@ -1,0 +1,1 @@
+python ./faster_rcnn/test_net.py  --weights ./output/faster_rcnn_end2end/voc_2007_trainval/Resnet__iter_200000.ckpt --network 'Resnet50_test' --cfg ./experiments/cfgs/faster_rcnn_end2end.yml --imdb 'voc_2007_test' 
