@@ -4,7 +4,7 @@ This is the faster rcnn based on Tensorflow and resnet50
 
 
   - fork from the TFFRCN website is https://github.com/CharlesShang/TFFRCNN
-  - just change the python file factory.py and __ init __.py in /lib/networks 
+  - just change the python file factory.py ， __ init __.py ，networks.py in /lib/networks 
   - add resnet50 networks 
   - resnet101 hasn't been tested
 
