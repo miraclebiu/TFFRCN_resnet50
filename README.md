@@ -15,6 +15,8 @@ link: http://pan.baidu.com/s/1eSuUO1s pwd: 24cf
 the fine-tune model link: http://pan.baidu.com/s/1nuUYfMh pwd：5bve  
 resnet101 imagenet file link http://pan.baidu.com/s/1i5odxNv pwd:d8y4  
 
+USing voc07_trainval to train the Resnet50 and test on the voc07_test  
+The result is :
 Mean AP = 0.7124
 
 AP for aeroplane = 0.7801  
